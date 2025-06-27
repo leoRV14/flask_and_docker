@@ -3,7 +3,7 @@
 ---
 
 ¡Hola! 👋
-Bienvenido/a a este proyecto donde exploramos cómo levantar apps Flask en diferentes puertos y también cómo “dockerizarlas” para llevarlas al siguiente nivel. Aquí te explico cómo puedes probar cada versión fácilmente, desde lo más básico hasta automatizaciones para que todo corra sin que tengas que preocuparte por nada.
+Bienvenido/a a este proyecto donde exploramos cómo levantar apps Flask en una VM ubuntu, en diferentes puertos y también cómo “dockerizarlas” para llevarlas al siguiente nivel. Aquí te explico cómo puedes probar cada versión fácilmente, desde lo más básico hasta automatizaciones para que todo corra sin que tengas que preocuparte por nada.
 Contenidos
 
 1. Flask puro en puerto 8000
@@ -228,3 +228,11 @@ Ver logs de Flask en Docker:
 
     docker logs flask_container
 
+---
+
+## 👥 Integrantes del equipo
+
+| Nombre        | GitHub Usuario        |
+|---------------|------------------------|
+|Leandro Rain|   [@leoRV14].
+|Francheska Tapia| [@FrancheskaTapia].
