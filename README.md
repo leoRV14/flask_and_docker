@@ -185,9 +185,7 @@ Si prefieres el comando directo:
     docker build -t flask8888 .
     docker run -d -p 8888:8888 --name flask_container flask8888
 
-Accede en tu navegador:
-
-    http://localhost:8888
+Accede en tu navegador http://localhost:8888
 
 ## 4. Automatización y arranque automático
 
