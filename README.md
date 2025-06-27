@@ -60,6 +60,8 @@ Ejecutar manualmente:
 
 Visita http://localhost:8000
 
+
+Imagen 2, Picture
 ---
 
 ## 2. Flask con HTML/CSS en puerto 8181
